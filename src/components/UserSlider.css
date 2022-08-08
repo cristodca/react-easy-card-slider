@@ -1,0 +1,22 @@
+.sliderContainer {
+  padding: 2rem 0;
+}
+
+.card {
+  background-color: white;
+  border-radius: 1rem;
+  border: 1px solid lightgray;
+  overflow: hidden;
+  margin: 0 1rem;
+  color: black;
+  box-shadow: 10px 10px 31px -9px rgba(0,0,0,0.29);
+-webkit-box-shadow: 10px 10px 31px -9px rgba(0,0,0,0.29);
+-moz-box-shadow: 10px 10px 31px -9px rgba(0,0,0,0.29);
+}
+.card img {
+  max-width: 100%;
+  height: auto;
+}
+.card .content {
+  padding: 1rem;
+}
